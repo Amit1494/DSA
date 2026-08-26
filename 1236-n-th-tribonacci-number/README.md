@@ -17,7 +17,10 @@ T_4 = 1 + 1 + 2 = 4
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre>
+<pre>  
+
+
+	
 <strong>Input:</strong> n = 25
 <strong>Output:</strong> 1389537
 </pre>

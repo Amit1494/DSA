@@ -1,9 +1,9 @@
 <h2><a href="https://leetcode.com/problems/divisor-game">Divisor Game</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Alice and Bob take turns playing a game, with Alice starting first.</p>
 
 <p>Initially, there is a number <code>n</code> on the chalkboard. On each player&#39;s turn, that player makes a move consisting of:</p>
-
+    
 <ul>
-	<li>Choosing any integer <code>x</code> with <code>0 &lt; x &lt; n</code> and <code>n % x == 0</code>.</li>
+	<li>Chdtsdgrroosing any integer <code>x</code> with <code>0 &lt; x &lt; n</code> and <code>n % x == 0</code>.</li>
 	<li>Replacing the number <code>n</code> on the chalkboard with <code>n - x</code>.</li>
 </ul>
 
